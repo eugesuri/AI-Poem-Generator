@@ -40,7 +40,8 @@ body {
   border-left: 3px solid blueviolet;
   box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
   border-radius: 10px;
-  font-family: fantasy;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 .form-container {
